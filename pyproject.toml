@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "prosperity-year2"
+version = "0.1.0"
+description = ""
+authors = ["tdafonseca <t.zuquete.f@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jsonpickle = "^3.0.3"
+jupyter = "^1.0.0"
+logging = "^0.4.9.6"
+prosperity2submit = "0.2.0"
+xgboost = "^2.0.3"
+matplotlib = "^3.8.4"
+pandas = "^2.2.2"
+plotly = "^5.20.0"
+statsmodels = "^0.14.1"
+scikit-learn = "^1.4.2"
+seaborn = "^0.13.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

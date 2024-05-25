@@ -1,0 +1,522 @@
+Sandbox logs:
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"455ff583-72b8-4be0-a141-e1e3a049e6e5\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"455ff583-72b8-4be0-a141-e1e3a049e6e5\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 0
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"3d525a96-06b4-4544-96c6-3b42fd0f7dd4\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"3d525a96-06b4-4544-96c6-3b42fd0f7dd4\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"c484159d-dfb9-44d7-be99-00a999ded0e9\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"c484159d-dfb9-44d7-be99-00a999ded0e9\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"0b8c5c91-a5fb-4ba8-b60d-d606700f17bc\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"0b8c5c91-a5fb-4ba8-b60d-d606700f17bc\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"5b38e888-e9b4-452d-bfee-c49796b2feb0\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"5b38e888-e9b4-452d-bfee-c49796b2feb0\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"65efc173-a32a-4194-9e4e-c5011af62d01\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"65efc173-a32a-4194-9e4e-c5011af62d01\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"84030b12-e515-40d3-a9c7-c30be6f482f1\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"84030b12-e515-40d3-a9c7-c30be6f482f1\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"47ace121-88f0-4805-82da-fd0859829992\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"47ace121-88f0-4805-82da-fd0859829992\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"3dd16877-9611-40bd-af06-2835acadb052\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"3dd16877-9611-40bd-af06-2835acadb052\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"85aa8813-4183-4675-9c74-900e70068e9a\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"85aa8813-4183-4675-9c74-900e70068e9a\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"1369e4ef-409e-4f29-96c7-3a3b374be0bd\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"1369e4ef-409e-4f29-96c7-3a3b374be0bd\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 1000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"6294b839-0ee1-4f7c-8160-bd4f130f687f\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"6294b839-0ee1-4f7c-8160-bd4f130f687f\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 1100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"1193c5b0-0698-4159-a6ea-6c067bf9d90e\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"1193c5b0-0698-4159-a6ea-6c067bf9d90e\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 1200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"1c9daed0-9dfe-4b92-b524-24753c5ac8ce\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"1c9daed0-9dfe-4b92-b524-24753c5ac8ce\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 1300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"de3197d4-0210-46d5-a4be-ec27319fdf39\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"de3197d4-0210-46d5-a4be-ec27319fdf39\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 1400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"9ffe4416-5cff-4c85-80a8-825f0f28ec68\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"9ffe4416-5cff-4c85-80a8-825f0f28ec68\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 1500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"fc8b8210-d311-476d-a08a-803eb1f97fbd\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"fc8b8210-d311-476d-a08a-803eb1f97fbd\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 1600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"bc072e14-6766-482d-95f7-8188218077b1\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"bc072e14-6766-482d-95f7-8188218077b1\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 1700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"e5153cdd-b548-442a-acdd-3409ebb424a4\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"e5153cdd-b548-442a-acdd-3409ebb424a4\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 1800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"84dd30f8-b120-493d-b547-2ac9b67ea0d0\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"84dd30f8-b120-493d-b547-2ac9b67ea0d0\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 1900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"fbe095b6-b033-42df-84aa-026b501bd515\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"fbe095b6-b033-42df-84aa-026b501bd515\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 2000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"d9f74780-97d6-42ec-bb50-44270221cb07\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"d9f74780-97d6-42ec-bb50-44270221cb07\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 2100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"4f6739e4-ceec-4348-9ebc-6317fcb9a640\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"4f6739e4-ceec-4348-9ebc-6317fcb9a640\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 2200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"21bc2e4d-09fa-4825-9b66-817dcf1d785d\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"21bc2e4d-09fa-4825-9b66-817dcf1d785d\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 2300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"564daa80-620e-45f9-a267-b602121cc839\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"564daa80-620e-45f9-a267-b602121cc839\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 2400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"764c7b9c-34f4-454e-a9e2-8f20dfb99410\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"764c7b9c-34f4-454e-a9e2-8f20dfb99410\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 2500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"fa82b37a-add9-4fe5-9d95-761841192f18\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"fa82b37a-add9-4fe5-9d95-761841192f18\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 2600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"dc6db27d-2f36-4700-b127-2cf77a797773\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"dc6db27d-2f36-4700-b127-2cf77a797773\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 2700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"19707e61-c39f-489d-b702-c9e11dd9055b\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"19707e61-c39f-489d-b702-c9e11dd9055b\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 2800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"0cedae1c-e7b7-4bf1-b7a5-0d9b948f7947\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"0cedae1c-e7b7-4bf1-b7a5-0d9b948f7947\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 2900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"ddc29fc8-4a4a-4047-80f9-d8892ff9c6ae\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"ddc29fc8-4a4a-4047-80f9-d8892ff9c6ae\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 3000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"a80768e2-9a7c-49fe-9613-87a61b9f164c\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"a80768e2-9a7c-49fe-9613-87a61b9f164c\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 3100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"51ce02f0-504a-4c96-90be-fcca001f26da\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"51ce02f0-504a-4c96-90be-fcca001f26da\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 3200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"b22f31f3-f47f-4884-8f52-dd450dab4f75\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"b22f31f3-f47f-4884-8f52-dd450dab4f75\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 3300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"019450fa-303f-4ea0-bba4-04ad006d236c\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"019450fa-303f-4ea0-bba4-04ad006d236c\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 3400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"02dae88e-b176-4680-8fb7-f6500e40117a\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"02dae88e-b176-4680-8fb7-f6500e40117a\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 3500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"81de4a73-6628-4660-a5cb-8be2213fcfa7\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"81de4a73-6628-4660-a5cb-8be2213fcfa7\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 3600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"75adca56-e1e3-4f8c-8aa4-9c294d23f216\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"75adca56-e1e3-4f8c-8aa4-9c294d23f216\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 3700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"2b907c42-3e08-4c24-bae8-083c64361ca8\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"2b907c42-3e08-4c24-bae8-083c64361ca8\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 3800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"a355eba7-d9de-4ef6-a3a5-732f0d0ed925\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"a355eba7-d9de-4ef6-a3a5-732f0d0ed925\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 3900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"652530ee-819d-4da0-8c8f-0bddc92bb89c\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"652530ee-819d-4da0-8c8f-0bddc92bb89c\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 4000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"c82d71a7-9039-4e0e-9ef9-776ee158b973\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"c82d71a7-9039-4e0e-9ef9-776ee158b973\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 4100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"896221e5-e855-4ca8-b24b-08abdab368c1\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"896221e5-e855-4ca8-b24b-08abdab368c1\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 4200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"eb2b7408-80f2-4f56-969f-85d11ac8c135\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"eb2b7408-80f2-4f56-969f-85d11ac8c135\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 4300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"10fd846a-1054-4128-81f4-93f83f3087e5\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"10fd846a-1054-4128-81f4-93f83f3087e5\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 4400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"054cd431-e8a8-4028-bedd-f9f103c755d3\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"054cd431-e8a8-4028-bedd-f9f103c755d3\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 4500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"e9f06752-9b40-415c-bebb-02b7e32cc976\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"e9f06752-9b40-415c-bebb-02b7e32cc976\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 4600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"7034d26f-a0ae-4e20-a032-8b3c72ee2f02\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"7034d26f-a0ae-4e20-a032-8b3c72ee2f02\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 4700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"7fb70f88-77e3-4ac6-81c1-7c900ccc79c6\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"7fb70f88-77e3-4ac6-81c1-7c900ccc79c6\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 4800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"500aae46-8e31-4c8a-8c41-9a84e804b2be\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"500aae46-8e31-4c8a-8c41-9a84e804b2be\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 4900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"2f4f8883-3bd8-4b85-86c1-a87264540326\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"2f4f8883-3bd8-4b85-86c1-a87264540326\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 5000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"a403e6a8-2291-4f99-9ec9-0bab232bda19\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"a403e6a8-2291-4f99-9ec9-0bab232bda19\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 5100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"02a03d3d-142c-4ed0-a871-a0d419736885\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"02a03d3d-142c-4ed0-a871-a0d419736885\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 5200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"116c9999-6d31-48b2-953b-2b0532d82929\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"116c9999-6d31-48b2-953b-2b0532d82929\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 5300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"0cc15fb3-5182-46c9-aefd-25590fb07bb0\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"0cc15fb3-5182-46c9-aefd-25590fb07bb0\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 5400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"6badbb35-ab75-4a02-b18b-f9efc77eeb2d\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"6badbb35-ab75-4a02-b18b-f9efc77eeb2d\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 5500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"462397f5-c32e-4d0d-8d54-98cbeedde74d\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"462397f5-c32e-4d0d-8d54-98cbeedde74d\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 5600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"e05e46d6-0e86-4ff4-9cd2-0567f6f52038\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"e05e46d6-0e86-4ff4-9cd2-0567f6f52038\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 5700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"00b59e07-dbcf-40c0-9fd4-8b251c871274\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"00b59e07-dbcf-40c0-9fd4-8b251c871274\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 5800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"cd88fe2b-3a7a-4aff-b94b-8fb155de4d06\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"cd88fe2b-3a7a-4aff-b94b-8fb155de4d06\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 5900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"7b0686e9-b35b-4c6c-adec-020ec31ae81f\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"7b0686e9-b35b-4c6c-adec-020ec31ae81f\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 6000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"6e130bf7-9960-4f89-8f8c-5aa5c67386af\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"6e130bf7-9960-4f89-8f8c-5aa5c67386af\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 6100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"d4a6a405-406a-4215-9c77-03ee557a5f0b\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"d4a6a405-406a-4215-9c77-03ee557a5f0b\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 6200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"13873680-504b-4a11-843c-672323cc91d2\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"13873680-504b-4a11-843c-672323cc91d2\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 6300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"cb60f445-faa9-45ee-9a8b-d7af100afd3b\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"cb60f445-faa9-45ee-9a8b-d7af100afd3b\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 6400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"2047316c-3a86-41a3-979b-c1aee0d75e33\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"2047316c-3a86-41a3-979b-c1aee0d75e33\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 6500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"8100b286-b830-4390-bec0-ad4c040d0064\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"8100b286-b830-4390-bec0-ad4c040d0064\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 6600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"aea0e97b-e106-4a15-a1f2-7b125c1fbdfa\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"aea0e97b-e106-4a15-a1f2-7b125c1fbdfa\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 6700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"47ac747d-5fc8-449c-8003-79a8f9fe476f\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"47ac747d-5fc8-449c-8003-79a8f9fe476f\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 6800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"b90bcd4c-38b8-4ab8-837c-86d1a8e2d8b5\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"b90bcd4c-38b8-4ab8-837c-86d1a8e2d8b5\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 6900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"af1c663a-d8b1-4a90-993e-6c9de373eb34\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"af1c663a-d8b1-4a90-993e-6c9de373eb34\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 7000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"2193df93-f56a-4e53-a462-dc3c41de3657\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"2193df93-f56a-4e53-a462-dc3c41de3657\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 7100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"1c14d12e-0a80-4e2d-8ff7-fad9b5b24a94\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"1c14d12e-0a80-4e2d-8ff7-fad9b5b24a94\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 7200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"0e43303b-c746-499c-a2b9-42922c2725d3\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"0e43303b-c746-499c-a2b9-42922c2725d3\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 7300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"bd840221-cbb9-4f1b-89ae-f7ea118becfa\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"bd840221-cbb9-4f1b-89ae-f7ea118becfa\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 7400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"57ea50c9-8be2-40ed-905b-5d78092cc7d2\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"57ea50c9-8be2-40ed-905b-5d78092cc7d2\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 7500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"6641dded-4afe-48fa-834b-0fabe3f4a3ae\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"6641dded-4afe-48fa-834b-0fabe3f4a3ae\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 7600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"00012848-ce6a-4cef-9c12-bb95b0205fd0\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"00012848-ce6a-4cef-9c12-bb95b0205fd0\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 7700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"1416e8cc-fccb-4770-bf78-d38d45eaa240\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"1416e8cc-fccb-4770-bf78-d38d45eaa240\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 7800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"a2d20219-59fe-4445-9196-ae979d1b4036\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"a2d20219-59fe-4445-9196-ae979d1b4036\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 7900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"029afe36-0382-4ef4-b1d7-090b03ea058f\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"029afe36-0382-4ef4-b1d7-090b03ea058f\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 8000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"b3d52de0-13a5-40b1-aebf-37ceb0bfe277\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"b3d52de0-13a5-40b1-aebf-37ceb0bfe277\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 8100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"b08509cf-3746-46ae-9b51-5853347d3fde\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"b08509cf-3746-46ae-9b51-5853347d3fde\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 8200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"ef9b73c1-b675-4812-9a22-3cd46516ecc2\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"ef9b73c1-b675-4812-9a22-3cd46516ecc2\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 8300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"b3f632d4-9714-426d-b6fa-df06d700d7d2\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"b3f632d4-9714-426d-b6fa-df06d700d7d2\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 8400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"837716c7-b488-4951-bb68-94f42001a109\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"837716c7-b488-4951-bb68-94f42001a109\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 8500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"9f2116dd-5db0-4578-820f-3e8096387902\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"9f2116dd-5db0-4578-820f-3e8096387902\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 8600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"774c7e7a-79ab-471c-aeb1-99a6dfee36cf\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"774c7e7a-79ab-471c-aeb1-99a6dfee36cf\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 8700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"e6605cf9-82e1-42a1-aca3-1abdc6f59f07\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"e6605cf9-82e1-42a1-aca3-1abdc6f59f07\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 8800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"93aa9c70-88b5-4a0c-ac70-48aacb677b82\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"93aa9c70-88b5-4a0c-ac70-48aacb677b82\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 8900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"9be2b77f-cb0f-4f3d-93e0-a80eeb0de0d2\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"9be2b77f-cb0f-4f3d-93e0-a80eeb0de0d2\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 9000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"f5831b55-55ae-496d-8c33-0806eed3a532\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"f5831b55-55ae-496d-8c33-0806eed3a532\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 9100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"c66ffe8e-c366-4cf9-a501-d021f8bb968a\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"c66ffe8e-c366-4cf9-a501-d021f8bb968a\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 9200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"26e3b85b-c81b-40d2-be85-b7d15638a711\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"26e3b85b-c81b-40d2-be85-b7d15638a711\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 9300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"5b49e743-c11d-4061-ac8c-b37309f24963\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"5b49e743-c11d-4061-ac8c-b37309f24963\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 9400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"dbdd288d-f2e1-4b5b-a1db-8dd2ee8deb75\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"dbdd288d-f2e1-4b5b-a1db-8dd2ee8deb75\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 9500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"07262836-9b0f-45ab-b9a1-71e5fbbcc718\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"07262836-9b0f-45ab-b9a1-71e5fbbcc718\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 9600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"0fb54334-c0ae-4ff0-8d42-2fc19e982026\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"0fb54334-c0ae-4ff0-8d42-2fc19e982026\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 9700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"9a6ef7aa-94d6-4682-be4c-4c1bb448545d\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"9a6ef7aa-94d6-4682-be4c-4c1bb448545d\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 9800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"08f6345a-a985-4647-80ff-51eda0952ebe\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"08f6345a-a985-4647-80ff-51eda0952ebe\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 9900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"3fe686f4-19a4-47b7-b096-9c7c27275874\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Syntax error in module 'app': invalid syntax (trader.py, line 701)\", \"errorType\": \"Runtime.UserCodeSyntaxError\", \"requestId\": \"3fe686f4-19a4-47b7-b096-9c7c27275874\", \"stackTrace\": [\"  File \\\"/var/task/trader.py\\\" Line 701\\n            buy_signal, sell_signal = #self.update_mtsi(COCONUT, mid_price_coconuts)\\n\"]}",
+  "timestamp": 10000
+}
+{
+  "sandboxLog": "Lambda errors have reached maximum value for submission fa79f3a5-71a5-4535-bf12-4d7c3e48a2fc",
+  "lambdaLog": null,
+  "timestamp": 328673
+}
+
+
+
+Activities log:
+day;timestamp;product;bid_price_1;bid_volume_1;bid_price_2;bid_volume_2;bid_price_3;bid_volume_3;ask_price_1;ask_volume_1;ask_price_2;ask_volume_2;ask_price_3;ask_volume_3;mid_price;profit_and_loss
+
+
+
+
+Trade History:
+null

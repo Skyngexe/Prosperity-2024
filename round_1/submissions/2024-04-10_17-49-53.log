@@ -1,0 +1,522 @@
+Sandbox logs:
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"ee58b0fd-4046-4f88-82c9-661183dc808d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"ee58b0fd-4046-4f88-82c9-661183dc808d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 0
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"af9cfc6b-d58b-4fec-9db2-da0774520ea9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"af9cfc6b-d58b-4fec-9db2-da0774520ea9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"97f84204-5a3d-43d9-a064-ec3dbe8dfdcb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"97f84204-5a3d-43d9-a064-ec3dbe8dfdcb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"25dac84e-fcd0-4a78-b998-3e3e510a36c7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"25dac84e-fcd0-4a78-b998-3e3e510a36c7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"172073e2-a68c-4a03-9b6d-8f65072d9f0d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"172073e2-a68c-4a03-9b6d-8f65072d9f0d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7924fffe-35ca-41ce-9d98-2f5f65e2b54f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7924fffe-35ca-41ce-9d98-2f5f65e2b54f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"fe1283b7-61e4-4984-8391-b2a160aa5d12\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"fe1283b7-61e4-4984-8391-b2a160aa5d12\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"0032782e-b281-4abd-b558-72557d6cb5ed\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"0032782e-b281-4abd-b558-72557d6cb5ed\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"b6633aa8-855a-4f98-8286-88a628b3a014\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"b6633aa8-855a-4f98-8286-88a628b3a014\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"c3133302-348b-4e2e-b015-abafbd5a1253\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"c3133302-348b-4e2e-b015-abafbd5a1253\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"efeab312-3c53-43f7-99af-57ef5cd0db4e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"efeab312-3c53-43f7-99af-57ef5cd0db4e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 1000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"57bb1d79-81ec-4f05-8db5-696a05ec69bb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"57bb1d79-81ec-4f05-8db5-696a05ec69bb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 1100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"5336e1c1-63aa-4cb2-ba2b-fe731ea4bc69\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"5336e1c1-63aa-4cb2-ba2b-fe731ea4bc69\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 1200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"3b503134-9a48-46a4-976b-09a7c637aa5a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"3b503134-9a48-46a4-976b-09a7c637aa5a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 1300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"dbe02415-ae62-40f1-88a8-01a212c00ffc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"dbe02415-ae62-40f1-88a8-01a212c00ffc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 1400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"cb9f6832-bc16-476c-8a87-4a99278b5c7f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"cb9f6832-bc16-476c-8a87-4a99278b5c7f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 1500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"4cc1e5a9-048a-4f5e-bfce-4ab3f4eb7a5d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"4cc1e5a9-048a-4f5e-bfce-4ab3f4eb7a5d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 1600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"52556097-a337-4b76-b624-e1c9ca0d678b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"52556097-a337-4b76-b624-e1c9ca0d678b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 1700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"ba7b990b-1c2e-43fe-9fc6-ed1c047c36a3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"ba7b990b-1c2e-43fe-9fc6-ed1c047c36a3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 1800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7b767518-3571-4590-ba1b-2a47f7c162cb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7b767518-3571-4590-ba1b-2a47f7c162cb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 1900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"9ad21743-be5f-4631-83ff-822a3f709309\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"9ad21743-be5f-4631-83ff-822a3f709309\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 2000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"8745e288-5d84-4182-ad0d-47597bcc4638\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"8745e288-5d84-4182-ad0d-47597bcc4638\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 2100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"c75c2e22-257b-46cd-a1dc-28ee44b5a125\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"c75c2e22-257b-46cd-a1dc-28ee44b5a125\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 2200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"ca07a7ae-fda2-40a8-bad6-ce8930c1d016\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"ca07a7ae-fda2-40a8-bad6-ce8930c1d016\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 2300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"0b53507c-9cbf-4503-9bb4-e808db910116\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"0b53507c-9cbf-4503-9bb4-e808db910116\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 2400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"4d89496b-73f5-40f3-8760-4fc5e2a75eb6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"4d89496b-73f5-40f3-8760-4fc5e2a75eb6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 2500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"2486b902-856c-4381-9cae-abb8e6f912a5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"2486b902-856c-4381-9cae-abb8e6f912a5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 2600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"4ac4f7c5-3080-4337-8cfa-ffcee9fb5261\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"4ac4f7c5-3080-4337-8cfa-ffcee9fb5261\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 2700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"6aed27f0-e4e1-4b69-8071-03700fdcf725\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"6aed27f0-e4e1-4b69-8071-03700fdcf725\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 2800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"0efff23f-554e-464c-8d61-6226675f62db\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"0efff23f-554e-464c-8d61-6226675f62db\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 2900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"f32112ac-9679-4230-9b8c-2adb77d05e0b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"f32112ac-9679-4230-9b8c-2adb77d05e0b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 3000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"16aa0766-b707-4876-9d08-f9736586c047\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"16aa0766-b707-4876-9d08-f9736586c047\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 3100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"6873596b-8f8a-480c-abb5-84ae61286ab7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"6873596b-8f8a-480c-abb5-84ae61286ab7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 3200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"78869d5d-8dd9-4e40-a9d4-4864b268b731\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"78869d5d-8dd9-4e40-a9d4-4864b268b731\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 3300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"c1ca6cd3-ce3b-4275-b5d4-2ec70831f816\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"c1ca6cd3-ce3b-4275-b5d4-2ec70831f816\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 3400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"a784bcc7-9202-402e-b395-8202c60e107a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"a784bcc7-9202-402e-b395-8202c60e107a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 3500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"c59d25bb-cc54-41d8-9a9d-e0ae5dcd9d54\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"c59d25bb-cc54-41d8-9a9d-e0ae5dcd9d54\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 3600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"a6890482-637b-49da-88b8-29c79eb0fd9a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"a6890482-637b-49da-88b8-29c79eb0fd9a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 3700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"6ff4ae50-6a0c-4fb3-8370-8348954dacbb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"6ff4ae50-6a0c-4fb3-8370-8348954dacbb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 3800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"ef406a69-0856-47eb-8690-f96195523269\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"ef406a69-0856-47eb-8690-f96195523269\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 3900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"ef69891d-d9d1-428e-9fbe-939477e18511\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"ef69891d-d9d1-428e-9fbe-939477e18511\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 4000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"564a7fb4-4ec0-4ee3-800d-484a361afe9b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"564a7fb4-4ec0-4ee3-800d-484a361afe9b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 4100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7d3e0113-1a45-4a8e-9957-63234ef2d52d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7d3e0113-1a45-4a8e-9957-63234ef2d52d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 4200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"4712dbff-6f48-4ebb-8deb-305e4b964255\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"4712dbff-6f48-4ebb-8deb-305e4b964255\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 4300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"17628fe4-9ad0-4535-805a-cfec02b6a582\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"17628fe4-9ad0-4535-805a-cfec02b6a582\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 4400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"1a7e5778-1088-4630-b23c-76905be104f5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"1a7e5778-1088-4630-b23c-76905be104f5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 4500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7ef63328-9c29-4c7c-bc81-2257a135137b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7ef63328-9c29-4c7c-bc81-2257a135137b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 4600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"1d931d0f-cf2c-4cb8-8e81-3824ee8c7c63\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"1d931d0f-cf2c-4cb8-8e81-3824ee8c7c63\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 4700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"2b546288-cc34-4ddd-9dd2-02495c064bc4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"2b546288-cc34-4ddd-9dd2-02495c064bc4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 4800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"fa2260cb-fba4-48b2-a5aa-0c3e76400c95\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"fa2260cb-fba4-48b2-a5aa-0c3e76400c95\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 4900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"0889c5e7-31e5-42ec-b4a2-e90ec1419737\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"0889c5e7-31e5-42ec-b4a2-e90ec1419737\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 5000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"c556bcf1-9d61-4567-9e13-ce99c9a70270\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"c556bcf1-9d61-4567-9e13-ce99c9a70270\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 5100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"b5248560-1a3a-41c9-b801-0bd413a360d3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"b5248560-1a3a-41c9-b801-0bd413a360d3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 5200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"4524a167-efb7-442d-a02b-430f6cd1287a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"4524a167-efb7-442d-a02b-430f6cd1287a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 5300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"496fec72-cc82-409b-92ba-7acf9cd3c370\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"496fec72-cc82-409b-92ba-7acf9cd3c370\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 5400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"f8b1ca46-9216-407f-bd28-de70963e2412\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"f8b1ca46-9216-407f-bd28-de70963e2412\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 5500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"bbf25404-2822-47c0-b98f-a12a48d33206\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"bbf25404-2822-47c0-b98f-a12a48d33206\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 5600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"03ed4d3b-e1ba-4c87-b457-d1ecee5d5d2a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"03ed4d3b-e1ba-4c87-b457-d1ecee5d5d2a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 5700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"27ec36fb-bec1-41ee-97be-1ae5c0370968\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"27ec36fb-bec1-41ee-97be-1ae5c0370968\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 5800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"38d01084-f9e3-435e-9afa-56d6e3493874\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"38d01084-f9e3-435e-9afa-56d6e3493874\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 5900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"f1f0fa83-e29c-4dfd-98b4-bfcb512108ee\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"f1f0fa83-e29c-4dfd-98b4-bfcb512108ee\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 6000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"108b8a78-5ee8-4732-bb95-82250758316a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"108b8a78-5ee8-4732-bb95-82250758316a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 6100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"4d4e9a65-ea5f-4b40-b466-88ef89185baf\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"4d4e9a65-ea5f-4b40-b466-88ef89185baf\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 6200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"f182b601-b2cf-4506-9f98-f19be77d2b40\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"f182b601-b2cf-4506-9f98-f19be77d2b40\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 6300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"e2e0a8d8-1dc9-443d-8f07-e996e8143474\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"e2e0a8d8-1dc9-443d-8f07-e996e8143474\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 6400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"b0182b04-06e8-40be-a17e-78c1f0d78931\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"b0182b04-06e8-40be-a17e-78c1f0d78931\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 6500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7cc2d007-addb-4304-9691-ad78b2807bba\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7cc2d007-addb-4304-9691-ad78b2807bba\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 6600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"78bc9b5f-89cc-4f11-8966-e39f2451e769\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"78bc9b5f-89cc-4f11-8966-e39f2451e769\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 6700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"853066b8-98f5-4da0-8455-55b59a121068\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"853066b8-98f5-4da0-8455-55b59a121068\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 6800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"076be998-8443-4ff5-99fa-866058150c2f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"076be998-8443-4ff5-99fa-866058150c2f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 6900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"1b5e13de-cefb-4c45-a58f-26a0825b9758\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"1b5e13de-cefb-4c45-a58f-26a0825b9758\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 7000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"2458cd61-0326-426e-9ff8-1a29ce10d8c3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"2458cd61-0326-426e-9ff8-1a29ce10d8c3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 7100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"0f47b43c-952e-4ec9-b7d3-8a63dba8aba6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"0f47b43c-952e-4ec9-b7d3-8a63dba8aba6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 7200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"3234c9c9-63ac-4686-b954-5c927fd2f824\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"3234c9c9-63ac-4686-b954-5c927fd2f824\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 7300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"723370b9-bb60-40de-b8b2-e93543188364\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"723370b9-bb60-40de-b8b2-e93543188364\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 7400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"3167d2a1-6259-4558-afa9-480e452701b1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"3167d2a1-6259-4558-afa9-480e452701b1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 7500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"528d5d47-4b97-4aa3-b43b-8dcaf0c148a2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"528d5d47-4b97-4aa3-b43b-8dcaf0c148a2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 7600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"c5dcc087-eae5-4d4a-aa0c-4bfdc59a1ac8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"c5dcc087-eae5-4d4a-aa0c-4bfdc59a1ac8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 7700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"9a6eec3c-51c3-4fa7-afe8-829c83ab8c99\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"9a6eec3c-51c3-4fa7-afe8-829c83ab8c99\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 7800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"930ae298-1e4f-4d5f-917e-3698b1ca38e5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"930ae298-1e4f-4d5f-917e-3698b1ca38e5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 7900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"f9600cdb-7a75-456f-8ab6-f6f68b764ce9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"f9600cdb-7a75-456f-8ab6-f6f68b764ce9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 8000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"325f6623-65ce-4a1d-a2a7-1b667a467a6f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"325f6623-65ce-4a1d-a2a7-1b667a467a6f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 8100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"dd37ba1d-faf6-4413-b1d7-87c749ddb45e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"dd37ba1d-faf6-4413-b1d7-87c749ddb45e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 8200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"8e575121-9562-4bda-97bb-486c34d51760\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"8e575121-9562-4bda-97bb-486c34d51760\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 8300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7462740d-ef96-48e1-86bc-0dd7a8b17f73\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7462740d-ef96-48e1-86bc-0dd7a8b17f73\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 8400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7b42567b-364f-42ca-9deb-728bc4ed5bce\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7b42567b-364f-42ca-9deb-728bc4ed5bce\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 8500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7be8b66d-8d1b-44d3-8786-fcb8e5ae4d3f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7be8b66d-8d1b-44d3-8786-fcb8e5ae4d3f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 8600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"bfee85d5-36c2-495d-971e-4b0413afebac\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"bfee85d5-36c2-495d-971e-4b0413afebac\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 8700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"55fe6aba-6b9b-443e-94f8-f821c4c4cb80\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"55fe6aba-6b9b-443e-94f8-f821c4c4cb80\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 8800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"83759a58-dfaa-4fff-90e1-fee5a0c985e7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"83759a58-dfaa-4fff-90e1-fee5a0c985e7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 8900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"3c00492f-0ce1-4eff-a433-dcc1ad90889a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"3c00492f-0ce1-4eff-a433-dcc1ad90889a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 9000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"8f8f14fa-b0a5-4a7a-9b02-abb74e2205be\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"8f8f14fa-b0a5-4a7a-9b02-abb74e2205be\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 9100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"9d9ca21f-9194-4b41-8f9d-3f3fe89703ef\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"9d9ca21f-9194-4b41-8f9d-3f3fe89703ef\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 9200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"05143491-2d0c-4352-ace7-3b1ddfebd585\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"05143491-2d0c-4352-ace7-3b1ddfebd585\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 9300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"bf7bd594-115d-43d0-80b2-28de5b585e84\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"bf7bd594-115d-43d0-80b2-28de5b585e84\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 9400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"dec48c1c-919c-4dc5-b599-e0059862b9f7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"dec48c1c-919c-4dc5-b599-e0059862b9f7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 9500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"39aaa8d1-8530-4ca4-952c-b83318f81503\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"39aaa8d1-8530-4ca4-952c-b83318f81503\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 9600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"2784ddc8-ed16-4be2-9672-fc1d3b902add\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"2784ddc8-ed16-4be2-9672-fc1d3b902add\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 9700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"e02b32ac-8a4b-4f73-9c56-0dc0827b16db\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"e02b32ac-8a4b-4f73-9c56-0dc0827b16db\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 9800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7a593342-1470-428b-84ea-9ebb72db9a71\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"7a593342-1470-428b-84ea-9ebb72db9a71\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 9900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"dda59d19-70cc-4fb6-8f19-8b07a5a96204\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.update_ema_prices() missing 1 required positional argument: 'log_return'\", \"errorType\": \"TypeError\", \"requestId\": \"dda59d19-70cc-4fb6-8f19-8b07a5a96204\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 285, in run\\n    self.update_ema_prices(state)\\n\"]}",
+  "timestamp": 10000
+}
+{
+  "sandboxLog": "Lambda errors have reached maximum value for submission 7e2c7d04-d93e-4005-95e4-3c7c92f60454",
+  "lambdaLog": null,
+  "timestamp": 92957
+}
+
+
+
+Activities log:
+day;timestamp;product;bid_price_1;bid_volume_1;bid_price_2;bid_volume_2;bid_price_3;bid_volume_3;ask_price_1;ask_volume_1;ask_price_2;ask_volume_2;ask_price_3;ask_volume_3;mid_price;profit_and_loss
+
+
+
+
+Trade History:
+null
